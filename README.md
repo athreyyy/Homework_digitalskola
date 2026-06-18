@@ -1,1 +1,3 @@
-# Homework_digitalskola
+# Homework_digitalskola Sesi 7
+
+API Automation
