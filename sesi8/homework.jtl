@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1781857775126,492,GET request,200,OK,Thread Group 1-1,text,true,,2755,175,2,2,https://reqres.in/api/users/3,492,0,59
+1781857775529,91,GET request,200,OK,Thread Group 1-2,text,true,,2755,175,2,2,https://reqres.in/api/users/3,91,0,50
+1781857775633,374,POST request,201,Created,Thread Group 1-1,text,true,,2349,310,3,3,https://reqres.in/api/users,374,0,0
+1781857775634,395,POST request,201,Created,Thread Group 1-2,text,true,,2349,310,2,2,https://reqres.in/api/users,395,0,0
+1781857775935,96,GET request,200,OK,Thread Group 1-3,text,true,,2755,175,2,2,https://reqres.in/api/users/3,96,0,59
+1781857776326,83,GET request,200,OK,Thread Group 1-4,text,true,,2755,175,2,2,https://reqres.in/api/users/3,82,0,50
+1781857776037,488,POST request,201,Created,Thread Group 1-3,text,true,,2349,310,2,2,https://reqres.in/api/users,488,0,0
+1781857776411,397,POST request,201,Created,Thread Group 1-4,text,true,,2355,310,2,2,https://reqres.in/api/users,397,0,0
+1781857776726,85,GET request,200,OK,Thread Group 1-5,text,true,,2755,175,2,2,https://reqres.in/api/users/3,85,0,50
+1781857776815,201,POST request,201,Created,Thread Group 1-5,text,true,,2362,310,1,1,https://reqres.in/api/users,201,0,0
